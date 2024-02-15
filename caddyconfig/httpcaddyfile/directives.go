@@ -44,7 +44,7 @@ var directiveOrder = []string{
 	"fs",
 	"root",
 	"log_add",
-	"skip_log",
+	"log_skip",
 
 	"header",
 	"copy_response_headers", // only in reverse_proxy's handle_response
