@@ -43,7 +43,7 @@ var directiveOrder = []string{
 	"vars",
 	"fs",
 	"root",
-	"extra_log",
+	"log_add",
 	"skip_log",
 
 	"header",
